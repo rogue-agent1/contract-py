@@ -1,0 +1,1 @@
+# contract-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 contract.py\n```\n
